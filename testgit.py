@@ -2,4 +2,4 @@
 # test git status and git diff command
 
 # this is a new branch dev
-# test
+# test MERGE conf
