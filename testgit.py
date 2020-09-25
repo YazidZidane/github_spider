@@ -2,4 +2,8 @@
 # test git status and git diff command
 
 # this is a new branch dev
-# test MERGE conf
+<<<<<<< HEAD
+# test merge conflict
+=======
+# test merge conflict
+>>>>>>> dev
